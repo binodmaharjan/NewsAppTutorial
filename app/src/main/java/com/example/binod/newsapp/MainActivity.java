@@ -51,6 +51,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //  validation comments
+    // some text here
+
+
     public boolean isValid(){
 
         FormValidation validation= new FormValidation();
